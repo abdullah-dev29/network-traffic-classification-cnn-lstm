@@ -98,7 +98,7 @@ The notebook will clone the repo, install lightweight deps (pandas, scikit-learn
 
 | Model | Accuracy | F1 | Recall | Precision | AUC | Specificity |
 |---|---|---|---|---|---|---|
-| Proposed CNN-LSTM (rebuild) | — | — | — | — | — | — |
+| Proposed CNN-LSTM (rebuild) | 0.9560 | 0.8544 | 0.8610 | 0.8480 | 0.9857 | 0.9728 |
 
 All reported numbers come from the team's own implementation and Colab run on this dataset version. The paper's reported numbers are provided for reference only.
 
@@ -124,9 +124,10 @@ Then paste the repo URL into `notebooks/colab_train.ipynb` → `REPO_URL` cell. 
 
 ## Team Members
 
-- [Name 1]
-- [Name 2]
-- [Name 3]
+- Muhammad Borhan UD Din - 63206
+- Muhammad Mutahar - 63513
+- Abdullah - 62724
+- Ameer Hamza - 65260
 
 ---
 
