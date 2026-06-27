@@ -48,7 +48,7 @@ VAL_SIZE     = 0.20   # validation fraction taken from the remaining train porti
 # Training
 # ---------------------------------------------------------------------------
 BATCH_SIZE = 64   # from the paper
-EPOCHS     = 30   # paper's proposed-model ran ~28 epochs; EarlyStopping will cut earlier if needed
+EPOCHS     = 50   # paper's proposed-model ran ~28 epochs; EarlyStopping will cut earlier if needed
 
 # Set to True to pass sklearn class_weight to model.fit — helps if Darknet recall is poor
 USE_CLASS_WEIGHT = False
