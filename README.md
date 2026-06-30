@@ -98,7 +98,7 @@ The notebook will clone the repo, install lightweight deps (pandas, scikit-learn
 
 | Model | Accuracy | F1 | Recall | Precision | AUC | Specificity |
 |---|---|---|---|---|---|---|
-| Proposed CNN-LSTM (rebuild) | 0.9560 | 0.8544 | 0.8610 | 0.8480 | 0.9857 | 0.9728 |
+| Proposed CNN-LSTM (rebuild) | 0.9574 | 0.8791 | 0.8771 | 0.8811 | 0.9885 | 0.9746 |
 
 All reported numbers come from the team's own implementation and Colab run on this dataset version. The paper's reported numbers are provided for reference only.
 
